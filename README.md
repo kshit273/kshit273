@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kshit273
 - 👀 I’m interested in coding and webdev
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Backend
 
 <!---
 kshit273/kshit273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
